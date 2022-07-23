@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **nastiapetrovych/nastiapetrovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**I'm Anastasiia** :wave:
+
+IT and bussiness analytics student at UCU (2 year) :books: 
+
+Working with Python, Linux, HTML, CSS, JS :computer:
+
+Looking for unforgettable experience with companies and start-ups
+
+You can contact me in [Linkedin](https://github.com/nastiapetrovych) or dirrectly by [email](mailto:anastasiyapetrovych25@gmail.com) :e-mail:
