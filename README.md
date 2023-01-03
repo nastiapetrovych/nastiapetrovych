@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 IT and bussiness analytics student at UCU (2 year) :books: 
 
-Working with Python, Linux, HTML, CSS, JS :computer:
+Working with Python, Linux, HTML, CSS, JS, Java, SQL, R :computer:
 
 Looking for unforgettable experience with companies and start-ups
 
