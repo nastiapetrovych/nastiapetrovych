@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **I'm Anastasiia** :wave:
 
-IT and bussiness analytics student at UCU (2 year) :books: 
+IT&BA at UCU (2 year) :books: 
 
 Working with Python, Linux, HTML, CSS, JS, Java, SQL, R :computer:
 
