@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I'm Anastasiia** :wave:
+**Hi, I am ** :wave:
 
 IT&BA at UCU (2 year) :books: 
 
-Working with Python, Linux, HTML, CSS, JS, Java, SQL, R :computer:
+Working with Python, Unix systems, HTML, CSS, JS, Java, SQL, R, PostgreSQL,Django, API :computer:
 
 Looking for unforgettable experience with companies and start-ups
 
