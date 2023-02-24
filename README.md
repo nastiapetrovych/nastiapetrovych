@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hi, I am** :wave:
+**Hi, I am Anastasiia** :wave:
 
 IT&BA at UCU (2 year) :books: 
 
