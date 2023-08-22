@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Hi, I am Anastasiia** :wave:
 
-IT&BA at UCU (2 year) :books: 
+IT&BA at UCU (3rd year) :books: 
 
 Working with Python, Unix systems, HTML, CSS, JS, Java, SQL, R, PostgreSQL,Django, API :computer:
 
