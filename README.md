@@ -15,12 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hi, I am Anastasiia** :wave:
+# Hi, I am Anastasiia :wave:
 
-IT&BA at UCU (3rd year) :books: 
+## About Me
+I am a final year student of IT & Business Analytics at the Ukrainian Catholic University :books:
 
-Working with Python, Unix systems, HTML, CSS, JS, Java, SQL, R, PostgreSQL,Django, API :computer:
+## Skills 💻
+- **Programming:** Python, Java, R, JavaScript, Bash/Shell
+- **Data Processing:** Pandas, NumPy, Apache Spark
+- **Full Stack Development:** RESTful API, Django, Flask, Springboot
+- **Databases:** SQL/NoSQL
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
+- **Deployment:** AWS, Docker, Kubeflow, Kubernetes, Git
 
-Looking for unforgettable experience with companies and start-ups
+## Career Goals
+I am actively seeking opportunities with companies and start-ups to gain valuable experience and contribute to innovative projects.
 
-You can contact me in [Linkedin](https://github.com/nastiapetrovych) or dirrectly by [email](mailto:anastasiyapetrovych25@gmail.com) :e-mail:
+## Contact Me
+You can connect with me on [LinkedIn](https://linkedin.com/in/apetrovych) or directly via [email](mailto:anastasiyapetrovych25@gmail.com) :e-mail:
+
+Looking forward to connecting!
